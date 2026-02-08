@@ -1,5 +1,17 @@
 # SwarmPlug Demo
 
+## 🎥 Demo Video
+
+A full running demo of SwarmPlug ver0.2 is available here:
+
+📁 [`/video/swarmplulg_v0.2_demo.mp4`](./video/swarmplulg_v0.2_demo.mp4)
+
+This video demonstrates:
+- Canonical naming across ROS resources
+- Host identity resolution
+- Read-only system introspection via CLI
+- 
+
 **Demonstration Repository for SwarmPlug (Public, Read-Only)**
 
 This repository contains **demonstration materials only** for the SwarmPlug project.  
