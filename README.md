@@ -147,7 +147,6 @@ No permission is granted to infer, re-implement, or reverse-engineer internal me
 
 ## Contact
 
-For collaboration, evaluation, or commercial inquiries:
-
+If you are evaluating SwarmPlug for research or engineering use,feel free to reach out at: 
 - swarmplug@163.com  
 - swarmplug@gmail.com
