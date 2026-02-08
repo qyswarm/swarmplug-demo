@@ -109,24 +109,7 @@ A detailed description is available in:
 
 docs/demo_scenario.md
 
-
 ---
-
-## Demo Video
-
-**SwarmPlug v0.2 – Canonical Naming & Host Identity Demo**
-
-The demo video shows real terminal output and system behavior.  
-It is intended for:
-
-- ROS system engineers  
-- Robotics infrastructure researchers  
-- Architecture-oriented reviewers  
-
-See the `videos/` directory for the full recording.
-
----
-
 ## Relationship to the Main Repository
 
 - **swarmplug**
