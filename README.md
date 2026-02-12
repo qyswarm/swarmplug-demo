@@ -5,15 +5,14 @@
 This repository contains the official demonstration video  
 for the foundational infrastructure layers of SwarmPlug.
 
-It presents observable behavior only.
-
-No implementation details are included.
+This repository presents observable system behavior only.
+It intentionally omits implementation details.
 
 ---
 
 ## 🎥 Foundation Demo (ver0.1–ver0.3)
 
-**Video:** /video/(ver0.1-ver0.3).mp4
+🎬 [Watch Demo Video](video/ver0.1-ver0.3.mp4)
 
 ---
 
@@ -67,15 +66,15 @@ It does not show:
     
 - Deployment instructions
     
-
-Core implementation remains proprietary.
+This repository is not a setup guide and is not intended for reproduction.
+Core implementation details are not included in this repository.
 
 ---
 
 ## Version Policy
 
-Future versions will be demonstrated  
-as independent video milestones.
+Each future version will be documented and demonstrated
+as an independent, version-scoped milestone.
 
 ---
 
